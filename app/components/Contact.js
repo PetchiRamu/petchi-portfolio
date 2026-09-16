@@ -116,7 +116,7 @@ export default function Contact() {
 
             {/* Phone */}
             <a
-              href="tel:6389815457"
+              href="tel:6369815457"
               className="group flex max-w-xl items-center gap-5 border-b border-white/10 py-6 transition-all duration-300 hover:border-purple-400"
             >
               <div className="flex h-14 w-14 shrink-0 items-center justify-center rounded-2xl bg-white/10 text-xl transition-all duration-300 group-hover:-rotate-6 group-hover:bg-purple-500">
@@ -129,7 +129,7 @@ export default function Contact() {
                 </p>
 
                 <p className="mt-1 text-base font-medium text-white/80 sm:text-xl">
-                  +91 63898 15457
+                  +91 6369815457
                 </p>
               </div>
 

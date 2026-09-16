@@ -1,7 +1,7 @@
 "use client";
 
 export default function WhatsAppButton() {
-  const phoneNumber = "916389815457";
+  const phoneNumber = "916369815457";
 
   const message =
     "Hi Petchi, I came across your portfolio and would like to connect with you.";
